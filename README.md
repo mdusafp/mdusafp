@@ -2,6 +2,9 @@
 
 My name is Vadim Malyutin, currently I'm frontend developer at [Grid Dynamics](https://www.griddynamics.com)
 
+You're <img src="https://www.websitecounterfree.com/c.php?d=9&id=13897&s=11"/> visitor.  
+Have a great day!
+
 > My approach is product and development at the same time.
 > I love to test, launch, validate hypotheses, dive into business context to find user problems and fix them.
 > I’ve the makings of a speaker and leader.
