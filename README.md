@@ -2,7 +2,7 @@
 
 My name is Vadim Malyutin, currently I'm frontend developer at [Grid Dynamics](https://www.griddynamics.com)
 
-You're <img src="https://www.websitecounterfree.com/c.php?d=9&id=13897&s=11"/> visitor.  
+You're <img src="https://www.websitecounterfree.com/c.php?d=6&id=19541&s=12"/> visitor.  
 Have a great day!
 
 > My approach is product and development at the same time.
