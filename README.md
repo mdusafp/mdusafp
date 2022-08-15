@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/mfpjke"><img src="https://api.daily.dev/devcards/51fcbaf43c7747e6bccd51278d14b05a.png?r=fc7" width="400" alt="Vadim Malutin's Dev Card"/></a>
+
 My name is Vadim Malyutin, currently I'm frontend developer at [Grid Dynamics](https://www.griddynamics.com)
 
 You're <img src="https://www.websitecounterfree.com/c.php?d=6&id=19541&s=12"/> visitor.  
