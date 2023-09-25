@@ -10,6 +10,7 @@ Have a great day!
 > Founder of non-commercial Healthcare app "Eye Helper" available on iOS and Android (~5k unique users).
 > Speaker at largest JavaScript conference in CIS region "Holy.js" and even more.
 
+- 📚 Education: AWS Certified Developer - Associate, May 02, 2021
 - 📚 Education: Saint Petersburg Electrotechnical University "LETI" — bachelor "Control in Technical Systems", 2015-2019
 - 📚 Education: Saint Petersburg Electrotechnical University "LETI" — master "Control in Technical Systems", 2019-2021
 - 📫 How to reach me: [Telegram](https://t.me/mfpjke) | [LinkedIn](https://www.linkedin.com/in/%D0%B2%D0%B0%D0%B4%D0%B8%D0%BC-%D0%BC%D0%B0%D0%BB%D1%8E%D1%82%D0%B8%D0%BD-5386a5122) | [Instagram](https://www.instagram.com/mfpjke) | [Email](mailto:mdusafp@gmail.com)
