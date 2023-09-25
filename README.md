@@ -19,11 +19,12 @@ My experience:
 1. Apple (Nov 2022 - Present) Senior Software Engineer
 2. CLO-Z (May 2021 - Now) Co-Founder
 3. TON Apps (May 2022 - Nov 2022) Senior Software Engineer
-4. Grid Dynamics (December 2020 – Nov 2022) Senior Software Engineer & Team Lead
+4. Grid Dynamics (Dec 2020 – Nov 2022) Senior Software Engineer & Team Lead
 5. Eye Helper (Feb 2019 - Nov 2021) Founder
-6. Yandex (October 2019 – December 2020) UI Developer
-7. Bekitzur (June 2017 – September 2019) Software Engineer
-8. Freelance (January 2016 - January – 2017) Software Engineer
+6. Yandex (Oct 2019 – Dec 2020) UI Developer
+7. VectorWay (Mar 2016 - Nov 2019) Founder of IT-community
+8. UpTeam, ex-Bekitzur (Jun 2017 – Sep 2019) Software Engineer
+9. Freelance (Jan 2016 - Jan 2017) Software Engineer
 
 <!--
 **mdusafp/mdusafp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
