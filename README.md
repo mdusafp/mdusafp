@@ -17,8 +17,7 @@ Have a great day!
 
 My experience:
 1. Apple (Nov 2022 - Present) Senior Software Engineer
-2. CLO-Z (May 2021 - Now) Co-Founder
-3. TON Apps (May 2022 - Nov 2022) Senior Software Engineer
+2. CLO-Z (May 2021 - Dec 2023) Co-Founder
 4. Grid Dynamics (Dec 2020 – Nov 2022) Senior Software Engineer & Team Lead
 5. Eye Helper (Feb 2019 - Nov 2021) Founder
 6. Yandex (Oct 2019 – Dec 2020) UI Developer
