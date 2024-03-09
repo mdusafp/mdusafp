@@ -5,7 +5,7 @@ My name is Vadim Maliutin, currently I'm Senior Software Engineer at [Apple](htt
 You're <img src="https://www.websitecounterfree.com/c.php?d=6&id=19541&s=12"/> visitor.  
 Have a great day!
 
-> 7+ years experience of development in product-led companies, such as: Apple, Grid Dynamics, TON Apps, Yandex, Bekitzur.
+> 7+ years experience of development in product-led companies, such as: Apple, Grid Dynamics, Yandex, Bekitzur.
 > Co-founder of first virtual try on in web called CLO-Z, IT-community VectorWay (40+ events, 1000+ attendees).
 > Founder of non-commercial Healthcare app "Eye Helper" available on iOS and Android (~5k unique users).
 > Speaker at largest JavaScript conference in CIS region "Holy.js" and even more.
